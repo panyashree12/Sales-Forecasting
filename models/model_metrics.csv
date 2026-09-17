@@ -1,0 +1,3 @@
+Model,MAE,RMSE,MAPE (%)
+"ARIMA(1,1,1)",1739.46,2739.4,395.32
+Holt-Winters Exp Smoothing,1628.4,2611.96,244.54
